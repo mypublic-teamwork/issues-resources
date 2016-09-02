@@ -7,6 +7,6 @@ This repository is stored some resources about issues. The directory format styl
 The directory infomation would be like this
 - username(github username)
   - respository
-    -year
-      -month
-        -day
+    - year
+      - month
+        - day
